@@ -34,6 +34,7 @@
 		//echo "</pre>";
 		echo "</table>\n";
 
+		// Test für Insert
 		$ergebnis = $mysqli->query("INSERT INTO `personal` (name, vorname, geburtsdatum) VALUES ('Peham','Bernhard','1962-11-03'),('Peham','Julia','1998-08-23'),('Peham','Johanna','1999-08-25'),('Bieler-Peham','Juiia','1963-06-20');");
 
 		// $ergebnis->close();
