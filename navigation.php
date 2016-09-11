@@ -13,5 +13,4 @@
 	}
 	//echo "</ul>\n"
 	echo "</div>\n";
-	echo "MENÜ\n";
 ?>
